@@ -1,33 +1,68 @@
 {
     "stars": [
         {  
-        "name" : "star1",
-        "latitude" : "300",
-        "longitude" : "200",
-        "rotation": "30"
+        "name" : "mercury",
+        "latitude" : "40",
+        "longitude" : "204",
+        "rotation": "1.23"
         },
 
         {
-        "name" : "star2",
-        "latitude" : "400",
-        "longitude" : "200",
-        "rotation": "50"
+        "name" : "venus",
+        "latitude" : "24",
+        "longitude" : "260",
+        "rotation": "4.47"
         },
 
         {
-        "name" : "star3",
-        "latitude" : "300",
-        "longitude" : "600",
-        "rotation": "80"
+        "name" : "earth",
+        "latitude" : "90",
+        "longitude" : "0",
+        "rotation": "2"
         },
 
         {
-        "name" : "star4",
-        "latitude" : "700",
-        "longitude" : "600",
-        "rotation": "100"
+        "name" : "mars",
+        "latitude" : "40",
+        "longitude" : "198",
+        "rotation": "1.53"
+        },
+
+
+        {  
+        "name" : "jupiter",
+        "latitude" : "41",
+        "longitude" : "14",
+        "rotation": "3"
+        },
+
+        {
+        "name" : "saturn",
+        "latitude" : "17",
+        "longitude" : "94",
+        "rotation": "0.7"
+        },
+
+        {
+        "name" : "uranus",
+        "latitude" : "38",
+        "longitude" : "1",
+        "rotation": "5.66"
+        },
+
+        {
+        "name" : "neptune",
+        "latitude" : "31",
+        "longitude" : "71",
+        "rotation": "7.70"
+        },
+
+        {
+        "name" : "pluto",
+        "latitude" : "1",
+        "longitude" : "120",
+        "rotation": "2.1"
         }
     ]
-    
-  
+      
 }
