@@ -1,0 +1,33 @@
+{
+    "stars": [
+        {  
+        "name" : "star1",
+        "latitude" : "300",
+        "longitude" : "200",
+        "rotation": "30"
+        },
+
+        {
+        "name" : "star2",
+        "latitude" : "400",
+        "longitude" : "200",
+        "rotation": "50"
+        },
+
+        {
+        "name" : "star3",
+        "latitude" : "300",
+        "longitude" : "600",
+        "rotation": "80"
+        },
+
+        {
+        "name" : "star4",
+        "latitude" : "700",
+        "longitude" : "600",
+        "rotation": "100"
+        }
+    ]
+    
+  
+}
